@@ -1,0 +1,15 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+#status  {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.chessboard {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
